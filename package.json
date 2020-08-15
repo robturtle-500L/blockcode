@@ -1,0 +1,17 @@
+{
+  "name": "blockcode",
+  "version": "1.0.0",
+  "description": "GUI programming language demo from 500 Lines Or Lines",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "start": "yarn browser-sync start -s -f ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.12"
+  }
+}
